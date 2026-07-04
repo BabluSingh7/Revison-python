@@ -27,3 +27,10 @@ d=4
 m=7
 y=2026
 print("Date:",d,"/",m,"/",y)
+
+#q6
+x = 23
+m =5
+b=2
+y = m*x -b
+print("y=",y)
