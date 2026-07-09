@@ -1,0 +1,23 @@
+#q1
+s=input("Enter the string: ")
+if 'my'==s:
+    print("True")
+else:
+    print("False")
+
+#q2
+s1,s2=input("Enter the two strings:"),input()
+if s1==s2:
+    print("True")
+else:
+    print("False")
+
+#q3
+print(5>10<5)
+
+
+#q4
+print("Red" and "white")
+
+#q5
+print("True "or "False")
